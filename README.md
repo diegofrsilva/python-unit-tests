@@ -1,3 +1,5 @@
+Unit tests examples using nosetests.
+
 # prepare the env
 ./env.sh
 
